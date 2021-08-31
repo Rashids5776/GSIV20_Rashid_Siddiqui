@@ -1,0 +1,50 @@
+  .movDetails {
+
+    padding: 25px;
+
+  } 
+  
+  .movied__title {
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .movied_rating {
+
+    display: block;
+
+  }
+
+  figure {
+    margin: 0;
+  }
+  
+  .movd_img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+  }
+
+  .movdt {
+
+    display: inline-flex;
+    margin-right: 2px;
+
+  }
+
+  .movdr {
+
+    display: inline-block;
+    margin-left: 2px;
+
+  }
+
+  .movied_desc {
+
+    display: block;
+
+  }
+
+
+
