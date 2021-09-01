@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GSIV20_Rashid_Siddiqui/static/css/main.0778ef1d.chunk.css",
+    "main.js": "/GSIV20_Rashid_Siddiqui/static/js/main.6ea6c53e.chunk.js",
+    "main.js.map": "/GSIV20_Rashid_Siddiqui/static/js/main.6ea6c53e.chunk.js.map",
+    "runtime-main.js": "/GSIV20_Rashid_Siddiqui/static/js/runtime-main.5018a1aa.js",
+    "runtime-main.js.map": "/GSIV20_Rashid_Siddiqui/static/js/runtime-main.5018a1aa.js.map",
+    "static/js/2.79bb6a5c.chunk.js": "/GSIV20_Rashid_Siddiqui/static/js/2.79bb6a5c.chunk.js",
+    "static/js/2.79bb6a5c.chunk.js.map": "/GSIV20_Rashid_Siddiqui/static/js/2.79bb6a5c.chunk.js.map",
+    "static/js/3.61d2af2b.chunk.js": "/GSIV20_Rashid_Siddiqui/static/js/3.61d2af2b.chunk.js",
+    "static/js/3.61d2af2b.chunk.js.map": "/GSIV20_Rashid_Siddiqui/static/js/3.61d2af2b.chunk.js.map",
+    "index.html": "/GSIV20_Rashid_Siddiqui/index.html",
+    "static/css/main.0778ef1d.chunk.css.map": "/GSIV20_Rashid_Siddiqui/static/css/main.0778ef1d.chunk.css.map",
+    "static/js/2.79bb6a5c.chunk.js.LICENSE.txt": "/GSIV20_Rashid_Siddiqui/static/js/2.79bb6a5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5018a1aa.js",
+    "static/js/2.79bb6a5c.chunk.js",
+    "static/css/main.0778ef1d.chunk.css",
+    "static/js/main.6ea6c53e.chunk.js"
+  ]
+}
